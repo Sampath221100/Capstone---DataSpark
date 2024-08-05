@@ -14,17 +14,21 @@ By analyzing Global Electronics' customer, product, sales, and store data, we ai
 Approach:
 
 1. Data Cleaning and Preparation
+   
 Check for missing values and handle them appropriately.
 Convert data types where necessary (e.g., dates, numerical values).
 Merge datasets where necessary for analysis (e.g., linking sales data with product and customer data).
 
 2. Load Data
+   
 Insert the preprocessed data into an SQL database by creating relevant tables for each data source and using SQL INSERT statements to load the data.
 
 3. Power BI Visualization
+ 
 Connect SQL to Power BI/Tableau, import the data, and create interactive dashboards.
 
 4. Develop 10 SQL Queries
+   
 Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
 Analysis Steps:
