@@ -1,17 +1,17 @@
 # Capstone-DataSpark
 
-Problem Statement:
+## Problem Statement:
 
 As part of Global Electronics' data analytics team, you are tasked with conducting a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. Your goal is to provide actionable recommendations to enhance customer satisfaction, optimize operations, and drive overall business growth.
 
 Global Electronics, a leading consumer electronics retailer, has provided several datasets containing information about their customers, products, sales, stores, and currency exchange rates. The company seeks to leverage this data to understand their business better and identify areas for improvement.
 
 
-Business Use Cases:
+## Business Use Cases:
 
 By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance marketing strategies, optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns, develop better products, plan effective promotions, and decide on store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies. Overall, these insights will help Global Electronics increase customer satisfaction and drive business growth.
 
-Approach:
+### Approach:
 
 1. Data Cleaning and Preparation
    
@@ -31,7 +31,7 @@ Connect SQL to Power BI/Tableau, import the data, and create interactive dashboa
    
 Formulate and execute 10 SQL queries to extract key insights from the data. These queries should address important business questions and support the analysis steps below.
 
-Analysis Steps:
+### Analysis Steps:
 
 1. Customer Analysis
 
@@ -58,7 +58,7 @@ Store Performance: Evaluate store performance based on sales, size (square meter
 Geographical Analysis: Analyze sales by store location to identify high-performing regions.
 
 
-Results: 
+## Results: 
 
 Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
 
